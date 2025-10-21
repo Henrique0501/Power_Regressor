@@ -1,15 +1,20 @@
-# Power Regressor
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Henrique0501/Meu_Portfolio/main/static/Logo_HM.png">
 </p>
 
+<p align="center">
+# Power Regressor
+</p>
+
 > Plataforma web interativa para criação, treinamento e análise de modelos de regressão sem necessidade de programação.
 
+<p align="center">
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Status](https://img.shields.io/badge/Status-Beta-orange.svg)]()
+</p>
 
 ---
 
