@@ -7,7 +7,9 @@
 Power Regressor
 </h1>
 
-> Plataforma web interativa para criação, treinamento e análise de modelos de regressão sem necessidade de programação.
+Plataforma web interativa para criação, treinamento, análise e comparações de modelos de regressão sem necessidade de programação.
+
+O deploy foi realizado em um servidor gratuito da plataforma Render. Como o servidor é gratuito, a aplicação somente é executada quando ocorre uma solicitação mediante tentativa de acesso ao site. Assim, ao acessar o site, pode ser que a página demore cerca de 1 minuto para carregar.
 
 <p align="center">
   <a href="https://powerregressor.onrender.com/" target="_blank">Link do projeto</a>
