@@ -25,10 +25,11 @@ Power Regressor
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg">
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg">
+  </a>
 </p>
-[![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 
 
