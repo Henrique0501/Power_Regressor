@@ -10,7 +10,7 @@ Power Regressor
 > Plataforma web interativa para criação, treinamento e análise de modelos de regressão sem necessidade de programação.
 
 <p align="center">
-  <a href="[https://henriquemartins.herokuapp.com/](https://powerregressor.onrender.com/)" target="_blank">Link do projeto</a>
+  <a href="https://powerregressor.onrender.com/" target="_blank">Link do projeto</a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Power Regressor
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+  <img src="[https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg](https://creativecommons.org/licenses/by-nc-nd/4.0/)">
 </p>
 [![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
